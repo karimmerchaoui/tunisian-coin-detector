@@ -3,9 +3,16 @@
 ![Tunisian_Coin_Detector](https://github.com/user-attachments/assets/e7531210-fa84-45a3-aaaf-9626eaa6d865)
 
 </div>
+
+
 # Overview
-The Tunisian Coin Detector is an Android application designed to identify and sum Tunisian coins using a camera interface. The app leverages a TensorFlow Lite (TFLite) model, which was trained on a dataset collected and converted from YOLO, to ensure accurate detection of various coin denominations. Users can quickly get the total value of the coins detected through their device's camera, making it a handy tool for both casual users and professionals.
-**This app solves the problem** by leveraging advanced image recognition technology to detect coins in real-time through your device's camera. By using a TensorFlow Lite (TFLite) model, which was trained on a comprehensive dataset converted from the YOLO framework, users can effortlessly identify coins and obtain their total value, making transactions quicker and more efficient.
+The Tunisian Coin Detector is an Android app that uses the phone's camera to identify and sum Tunisian coins, utilizing a TensorFlow Lite model trained on a YOLO dataset for smooth deployment.
+
+This app <strong> addresses the common challenge </strong> of identifying and summing various Tunisian coin denominations, which can be difficult in busy environments like markets or shops.
+
+Many individuals struggle with distinguishing between coins, leading to potential errors in transactions and time delays. This app provides a <strong> quick </strong> and <strong> accurate </strong> solution, allowing users to effortlessly identify coins and calculate their total value. 
+
+Additionally, it enhances accessibility for those with visual impairments and assists tourists in navigating local currency, ultimately streamlining the process of handling money.
 
 
 # Who Would Benefit from This Tool
@@ -21,6 +28,7 @@ The Tunisian Coin Detector is an Android application designed to identify and su
 - **YOLO (You Only Look Once):** Object detection algorithm used for training the model.
 - **Android Studio:** Integrated development environment (IDE) used for building the application.
 
+
 # Features
 - Real-time detection of Tunisian coins through the camera.
 - Accurate identification of various coin denominations.
@@ -28,9 +36,26 @@ The Tunisian Coin Detector is an Android application designed to identify and su
 - User-friendly interface for easy interaction.
 - Lightweight and optimized for mobile devices.
 
-# Installation
-To set up the Tunisian Coin Detector app on your local machine, follow these steps:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/karimmerchaoui/tunisian-coin-detector.git
+# Installation
+<p>To set up the Tunisian Coin Detector app on your local machine, follow these steps:</p>
+<ol>
+    <li>Clone the repository:</li>
+    <pre><code class="language-bash">git clone https://github.com/yourusername/tunisian-coin-detector.git</code></pre>
+    <li>Open the project in Android Studio.</li>
+    <li>Ensure you have the necessary SDKs and dependencies installed.</li>
+    <li>Build the project by selecting <strong>Build > Make Project</strong> in the menu.</li>
+    <li>Run the app on an Android device or emulator.</li>
+</ol>
+
+
+
+# Usage
+
+
+<ol>
+    <li>Launch the Tunisian Coin Detector app on your device.</li>
+    <li>Point your camera at the coins you wish to identify.</li>
+    <li>Wait for the app to detect and display the coins.</li>
+    <li>The total value of the detected coins will be shown on the screen.</li>
+</ol>
