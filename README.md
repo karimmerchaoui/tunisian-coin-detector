@@ -13,6 +13,10 @@ This app <strong> addresses the common challenge </strong> of identifying and su
 Many individuals struggle with distinguishing between coins, leading to potential errors in transactions and time delays. This app provides a <strong> quick </strong> and <strong> accurate </strong> solution, allowing users to effortlessly identify coins and calculate their total value. 
 
 Additionally, it enhances accessibility for those with visual impairments and assists tourists in navigating local currency, ultimately streamlining the process of handling money.
+<div align='center'>
+
+![1029 (1)](https://github.com/user-attachments/assets/6048987a-ce4b-43c0-b494-b5ff0a6b53ee)
+</div>
 
 
 # Who Would Benefit from This Tool
