@@ -14,8 +14,8 @@ Many individuals struggle with distinguishing between coins, leading to potentia
 
 Additionally, it enhances accessibility for those with visual impairments and assists tourists in navigating local currency, ultimately streamlining the process of handling money.
 <div align='center'>
+![Pi7_GIF_CMP](https://github.com/user-attachments/assets/4fa4af23-3749-4591-a669-cfa5dfcfa5f9)
 
-![1029 (1)](https://github.com/user-attachments/assets/6048987a-ce4b-43c0-b494-b5ff0a6b53ee)
 </div>
 
 
